@@ -1,0 +1,36 @@
+p{
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    margin-top: 0;
+    margin-bottom: 0;
+}
+
+.title1
+{
+    color: orange;
+    font-size: 13px;
+}
+.title2
+{
+    font-size: 28px;
+}
+.title3
+{
+    font-size: 60px;
+    font-weight: 700;
+    margin-bottom: 5px;
+}
+#Buybutton
+{
+    text-align: center;
+    margin-top: 5px;
+}
+.Buy
+{
+    background-color: #0071e3;
+    border: none;
+    border-radius: 15px;
+    width: 50px;
+    height: 30px;
+    color: white    ;
+}
